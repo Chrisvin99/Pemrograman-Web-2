@@ -4,15 +4,15 @@
 	<title>Tanggal</title>
 	<style type="text/css">
 		h3	{
-			color: red;
-			background-color: gray;
+			color: blue;
+			background-color: green;
 		}
 	</style>
 </head>
 <body>
 	<font size="10px">
 		<h3>FUNGSI DATE</h3>
-		<h3>Afrizaldo</h3>
+		<h3>Christian Calvin</h3>
 	<?php 
 	echo "Sekarang Tanggal";
 	echo date('d-F-Y');
